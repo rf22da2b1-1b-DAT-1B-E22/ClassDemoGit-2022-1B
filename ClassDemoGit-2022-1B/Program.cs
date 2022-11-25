@@ -3,4 +3,5 @@
 
 
 
-Console.WriteLine("Dav Jakob");
+if (true)
+    Console.WriteLine("dette er fint");
