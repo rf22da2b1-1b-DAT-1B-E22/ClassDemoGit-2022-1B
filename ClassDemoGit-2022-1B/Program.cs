@@ -3,4 +3,6 @@
 
 
 
+if (true)
+    Console.WriteLine("dette er fint");
 Console.WriteLine("hi Peter & Jakob");
