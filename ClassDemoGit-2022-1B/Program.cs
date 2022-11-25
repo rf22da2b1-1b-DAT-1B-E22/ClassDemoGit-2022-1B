@@ -3,5 +3,4 @@
 
 
 
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hi Peter");
+Console.WriteLine("Dav Jakob");
